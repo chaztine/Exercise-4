@@ -6054,3 +6054,20 @@ p > video {
 		padding: 0;
 	}
 }
+.docu-item.tf-custom-item {
+	width:100%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 0;
+	padding-bottom: 0;
+	background:#3070d1;
+	color:#FFF;
+}
+
+.docu-item.tf-custom-item a:link, .docu-item.tf-custom-item a:visited {
+	color:#FFF;
+}
+
+.docu-item.tf-custom-item a:hover {
+	opacity: .85;
+}
